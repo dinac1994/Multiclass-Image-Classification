@@ -1,4 +1,4 @@
-# Image-Classification-NN-vs-CNN
+# Image-Classification-Rock-Paper-Scissors
 
 Image Classification using neural networks with and without convolutional layers. This code shows the benefits of using convolutional neural networks in image classification.
 
